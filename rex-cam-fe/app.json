@@ -1,0 +1,12 @@
+{
+  "name": "rex-cam-fe",
+  "displayName": "rex-cam-fe",
+  "expo": {
+    "name": "rex-cam-fe",
+    "slug": "rex-cam-fe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
